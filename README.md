@@ -1,5 +1,5 @@
 # threatintelligence-gists
-Threat intelligence kibana gists
+Threat intelligence kibana dashboards (Evox Computing gist collection)
 
 Kibana dashboards
 
