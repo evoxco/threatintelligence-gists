@@ -5,6 +5,10 @@ Threat Intelligence C1fApp Kibana dashboards
 
 https://gist.github.com/d02a6e0b408eae530bea
 
+Bro IDS Kibana dashboard [Part 1]
+
+https://gist.github.com/evoxco/ce8d89538d9a69d79cb2
+
 
 PFSense Kibana dashboard
 
