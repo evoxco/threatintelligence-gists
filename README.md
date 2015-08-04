@@ -17,3 +17,6 @@ https://gist.github.com/39e8a1024625a4088695
 Logstash config-PFSense
 
 https://gist.github.com/81e4cd92af76574057e1
+
+More related to Elasticsearch and Bro IDS!
+https://gist.github.com/evoxco
